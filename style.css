@@ -1,0 +1,12 @@
+body {
+  background-image: radial-gradient(circle, #fa6a6a 0%, #fff3f3 100%);
+
+  text-align: center;
+  color: #fff;
+  padding-top: 20em;
+}
+
+* {
+  color: #fff;
+  text-decoration: none;
+}
